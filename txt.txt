@@ -1,0 +1,6 @@
+$ git config --global yser.name "Anton"
+$ git config --global user.email "rubchenko98@list.ru"
+$ git init
+$ git status
+$ git add . -добавит всефайли из этой папки
+
